@@ -5,7 +5,7 @@ import Image from 'next/image'
 // import Link from 'next/link'
 import { identifyPlant } from '../utils/plantIdentifier'
 import Footer from './components/footer'
-import Card from './components/Card'
+import Card from './components/card'
 import Navbar from './components/Navbar'
 
 export default function Home() {
